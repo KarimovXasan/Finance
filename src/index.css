@@ -12,7 +12,6 @@
 
 html {
   font-family: "Poppins", sans-serif;
-  overflow: hidden;
   scroll-behavior: smooth;
 }
 
@@ -25,5 +24,11 @@ html {
   }
   h3{
     @apply text-2xl font-bold
+  }
+}
+
+@layer components{
+  .blue_btn{
+    @apply bg-blue text-white py-2 px-4 rounded text-sm
   }
 }
