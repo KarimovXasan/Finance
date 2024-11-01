@@ -27,3 +27,15 @@ html {
     @apply text-2xl font-bold
   }
 }
+
+@layer components{
+  .btn-rounded{
+    @apply bg-bgColor text-blue gap-7 rounded-2xl text-center m-4 py-14
+  }
+  .btn-nav{
+    @apply bg-transparent border border-gray py-2 px-5 rounded-md text-white
+  }
+  .btn-hero{
+    @apply bg-darkBlue py-2 px-9 text-white rounded
+  }
+}

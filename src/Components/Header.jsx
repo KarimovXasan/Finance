@@ -17,7 +17,7 @@ const Header = () => {
                         <li><a className='text-white' href="#">More</a></li>
                     </ul>
                 </nav>
-                <button className='bg-transparent border border-gray py-2 px-5 rounded-md text-white'>Contact Us</button>
+                <button className='btn-nav'>Contact Us</button>
             </div>
         </header>
     )

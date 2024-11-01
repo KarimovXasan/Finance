@@ -9,7 +9,7 @@ const Hero = () => {
                     <div className='space-y-3 py-10 text-white mx-auto text-center md:text-start'>
                         <h1 className='text-5xl md:text-8xl font-bold'>Financial Solutions.</h1>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-                        <button className='bg-darkBlue py-2 px-9 text-white rounded'>
+                        <button className='btn-hero'>
                             Let’s Talk
                         </button>
                     </div>

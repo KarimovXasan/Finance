@@ -24,10 +24,10 @@ const Firm = () => {
                         <button className='bg-blue text-white py-2 px-5 rounded'>Read About Us</button>
                     </div>
                     <div className='grid grid-cols-2'>
-                        <div className='bg-bgColor text-blue gap-7 rounded-2xl text-center m-4 py-14'><h3>18+</h3><p>Years Experience</p></div>
-                        <div className='bg-bgColor text-blue gap-7 rounded-2xl text-center m-4 py-14'><h3>240+</h3><p>Completed Projects</p></div>
-                        <div className='bg-bgColor text-blue gap-7 rounded-2xl text-center m-4 py-14'><h3>9.5/10</h3><p>Average rating</p></div>
-                        <div className='bg-bgColor text-blue gap-7 rounded-2xl text-center m-4 py-14'><h3>150+</h3><p>Served</p></div>
+                        <div className='btn-rounded'><h3>18+</h3><p>Years Experience</p></div>
+                        <div className='btn-rounded'><h3>240+</h3><p>Completed Projects</p></div>
+                        <div className='btn-rounded'><h3>9.5/10</h3><p>Average rating</p></div>
+                        <div className='btn-rounded'><h3>150+</h3><p>Served</p></div>
                     </div>
                 </div>
             </div>
