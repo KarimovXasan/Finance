@@ -12,7 +12,7 @@
 
 html {
   font-family: "Poppins", sans-serif;
-  overflow: hidden;
+  overflow-y: scroll;
   scroll-behavior: smooth;
 }
 
