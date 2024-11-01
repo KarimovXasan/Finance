@@ -14,7 +14,7 @@ const Hero = () => {
                         </button>
                     </div>
                     <div className='mx-auto'>
-                        <img className='w-60 hidden md:block' src={People} alt="People right" />
+                        <img className='hidden md:block' src={People} alt="People right" />
                     </div>
                 </div>
             </div>
